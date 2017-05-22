@@ -1,0 +1,11 @@
+127.0.0.1 - - [04/Apr/2017:10:14:26 +0800] "GET /rest/page/login HTTP/1.1" 200 2208 http-bio-8081-exec-1 417
+127.0.0.1 - - [04/Apr/2017:10:14:27 +0800] "GET /css/taotao.css HTTP/1.1" 304 - http-bio-8081-exec-3 60
+127.0.0.1 - - [04/Apr/2017:10:14:27 +0800] "GET /js/common.js HTTP/1.1" 304 - http-bio-8081-exec-4 188
+127.0.0.1 - - [04/Apr/2017:10:14:27 +0800] "GET /js/jquery-easyui-1.4.1/jquery.min.js HTTP/1.1" 304 - http-bio-8081-exec-7 183
+127.0.0.1 - - [04/Apr/2017:10:14:27 +0800] "GET /js/jquery-easyui-1.4.1/themes/icon.css HTTP/1.1" 304 - http-bio-8081-exec-2 216
+127.0.0.1 - - [04/Apr/2017:10:14:27 +0800] "GET /js/jquery-easyui-1.4.1/themes/default/easyui.css HTTP/1.1" 304 - http-bio-8081-exec-8 158
+127.0.0.1 - - [04/Apr/2017:10:14:27 +0800] "GET /js/jquery-easyui-1.4.1/locale/easyui-lang-zh_CN.js HTTP/1.1" 304 - http-bio-8081-exec-6 212
+127.0.0.1 - - [04/Apr/2017:10:14:27 +0800] "GET /js/jquery-easyui-1.4.1/jquery.easyui.min.js HTTP/1.1" 304 - http-bio-8081-exec-5 283
+127.0.0.1 - - [04/Apr/2017:10:14:28 +0800] "GET /js/jquery-easyui-1.4.1/themes/icons/ok.png HTTP/1.1" 304 - http-bio-8081-exec-5 4
+127.0.0.1 - - [04/Apr/2017:10:14:28 +0800] "GET /js/jquery-easyui-1.4.1/themes/default/images/blank.gif HTTP/1.1" 304 - http-bio-8081-exec-5 35
+127.0.0.1 - - [04/Apr/2017:10:14:28 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8081-exec-5 3

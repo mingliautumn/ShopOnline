@@ -1,0 +1,5 @@
+127.0.0.1 - - [13/May/2017:17:18:43 +0800] "GET /rest/item/cat/all HTTP/1.1" 500 139804 http-bio-8081-exec-1 15294
+127.0.0.1 - - [13/May/2017:17:18:43 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8081-exec-3 2
+127.0.0.1 - - [13/May/2017:17:20:12 +0800] "GET /rest/item/cat/all HTTP/1.1" 500 139804 http-bio-8081-exec-5 14197
+127.0.0.1 - - [13/May/2017:17:21:55 +0800] "GET /rest/item/cat/all HTTP/1.1" 500 138928 http-bio-8081-exec-7 14145
+127.0.0.1 - - [13/May/2017:17:23:20 +0800] "GET /rest/item/cat/all HTTP/1.1" 200 30461 http-bio-8081-exec-9 2524
